@@ -37,6 +37,6 @@ superuser: true
 title: Simon Dufour (DVM, PhD)
 ---
 
-Simon Dufour is a professor of veterinary epidemiology at the Université de Montréal's Faculté de médecine vétérinaire. He currently leads the Op+lait FRQ-NT research group, and he is Co-director of the Chair in dairy biosecurity. He is passionate about epidemiology of infectious diseases of dairy cattle and has a research program focused on diagnostic approaches for disease control and on the development of data visualization tools for monitoring and benchmarking health issues. He has been involved in the training of many graduate students (most survived). Above all, he is an eternal learner.
+Simon Dufour is a professor of veterinary epidemiology at the Université de Montréal's Faculté de médecine vétérinaire. He currently leads the [Op+lait](https://www.oplait.org/) FRQ-NT research group, and he is Co-director of the Chair in dairy biosecurity. He is passionate about epidemiology of infectious diseases of dairy cattle and he leads a research program focused on diagnostic approaches for disease control and on the development of data visualization tools for monitoring and benchmarking health issues. He has been involved in the training of many graduate students (most survived). Above all, he is passionate about learning and teaching.
 
 

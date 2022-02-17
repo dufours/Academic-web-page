@@ -6,23 +6,21 @@ widget: experience
 subtitle: null
 date_format: Jan 2006
 experience:
-- title: CEO
-  company: GenCoin
-  company_url: ''
-  company_logo: org-gc
-  location: California
-  date_start: '2021-01-01'
-  date_end: ''
-  description: "  Responsibilities include:\n  \n  * Analysing\n  * Modelling\n  *
-    Deploying\n  "
-- title: Professor of Semiconductor Physics
-  company: University X
-  company_url: ''
-  company_logo: org-x
-  location: California
-  date_start: '2016-01-01'
-  date_end: '2020-12-31'
-  description: Taught electronic engineering and researched semiconductor physics.
+- title: Dairy practitioner
+  company: Abbotsford veterinary clinic
+  location: British-Columbia, Canada
+  date_start: '2005-08-01'
+  date_end: '2007-08-01'
+- title: Clinical teacher
+  company: Ambulatory clinic, Université de Montréal
+  location: St-Hyacinthe, Canada
+  date_start: '2003-08-01'
+  date_end: '2005-07-31'
+- title: Dairy practitioner
+  company: Clinique vétérinaire St-Alexis
+  location: St-Alexis-de-Montcalm, Canada
+  date_start: '1998-06-01'
+  date_end: '2003-07-31'
 design:
   columns: '2'
 ---
