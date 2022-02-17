@@ -24,7 +24,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- icon: graduation-cap
+- icon: "graduation-cap"
   icon_pack: fas
   link: https://scholar.google.ca/citations?user=ieHG-7IAAAAJ&hl=en
 - icon: github

@@ -6,6 +6,15 @@ widget: experience
 subtitle: null
 date_format: Jan 2006
 experience:
+- title: Professor of veterinary epidemiology
+  company: Département de pathologie et microbiologie, Faculté de médecine vétérinaire, Université de Montréal
+  location: Québec, Canada
+  date_start: '2012-06-01'
+- title: Postdoctoral fellow (Epi-informatic)
+  company: Ian Dohoo and Crawford Revie, Atlantic Veterinary College, University of Prince Edward Island 
+  location: Prince Edward Island, Canada
+  date_start: '2011-11-01'
+  date_end: '2012-06-01'
 - title: Dairy practitioner
   company: Abbotsford veterinary clinic
   location: British-Columbia, Canada
