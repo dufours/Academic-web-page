@@ -19,16 +19,16 @@ feature:
 - description: 80%
   icon: r-project
   icon_pack: fab
-  name: R
+  name: Statistics
 - description: 100%
   icon: chart-line
   icon_pack: fas
-  name: Epidemiology and Statistics
-- description: 100%
-  icon: "fa-regular fa-user-doctor"
-  icon_pack: fas
+  name: Epidemiology
+- description: 80%
+  icon: paw
+  icon_pack: fa
   name: Animal health
-
+  
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
 #  icon_pack: emoji

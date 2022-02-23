@@ -1,43 +1,46 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include veterinary epidemiology, infectious diseases of dairy cows, biosecurity, Bayesian statistics, data visualization, diagnostic tests validation, latent class models.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: PhD in Veterinary Science - Epidemiology
+    institution: Université de Montréal
+    year: 2011
+  - course: Doctorate in Veterinary Medicine
+    institution: Université de Montréal
+    year: 1998
+email: "simon.dufour@umontreal.ca"
+highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Epidemiology
+- Dairy cattle
+- Antimicrobial usage
+- Data visualization
+- Diagnostic tests validation
+- Bayesian latent class models
 organizations:
-- name: Stanford University
-  url: ""
-role: Professor of Artificial Intelligence
+- name: Université de Montréal
+  url: https://fmv.umontreal.ca/fmv/
+role: Professor of Veterinary Epidemiology
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: /#contact
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.ca/citations?user=ieHG-7IAAAAJ&hl=en
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-6418-0424
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-superuser: false
-title: 吳恩達
+  link: https://github.com/dufours
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/simon-dufour-49673234/
+superuser: true
+title: Simon Dufour (DVM, PhD)
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Simon Dufour is a professor of veterinary epidemiology at the Université de Montréal's Faculté de médecine vétérinaire. He currently leads the [Op+lait](https://www.oplait.org/) FRQ-NT research group, and he is Co-director of the Chair in dairy biosecurity. He is passionate about epidemiology of infectious diseases of dairy cattle, about usage of antimicrobial in production animals and antimicrobial resistance. He also has a strong expertise in diagnostic strategies, control of infectious diseases, and development of data visualization tools for monitoring and benchmarking health issues. He has been involved in the training of many graduate students (most survived). Above all, he is passionate about learning and teaching.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+

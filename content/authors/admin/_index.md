@@ -13,9 +13,10 @@ highlight_name: true
 interests:
 - Epidemiology
 - Dairy cattle
+- Antimicrobial usage
 - Data visualization
-- Diagnostic tests validation
-- Bayesian latent class models
+- Diagnostic tests
+- Bayesian LCM
 organizations:
 - name: Université de Montréal
   url: https://fmv.umontreal.ca/fmv/
@@ -24,9 +25,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- icon: "graduation-cap"
-  icon_pack: fas
+- icon: google-scholar
+  icon_pack: ai
   link: https://scholar.google.ca/citations?user=ieHG-7IAAAAJ&hl=en
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-6418-0424
 - icon: github
   icon_pack: fab
   link: https://github.com/dufours
@@ -37,6 +41,6 @@ superuser: true
 title: Simon Dufour (DVM, PhD)
 ---
 
-Simon Dufour is a professor of veterinary epidemiology at the Université de Montréal's Faculté de médecine vétérinaire. He currently leads the [Op+lait](https://www.oplait.org/) FRQ-NT research group, and he is Co-director of the Chair in dairy biosecurity. He is passionate about epidemiology of infectious diseases of dairy cattle and he leads a research program focused on diagnostic approaches for disease control and on the development of data visualization tools for monitoring and benchmarking health issues. He has been involved in the training of many graduate students (most survived). Above all, he is passionate about learning and teaching.
+Simon Dufour is a professor of veterinary epidemiology at the Université de Montréal's Faculté de médecine vétérinaire. He currently leads the [Op+lait](https://www.oplait.org/) FRQ-NT research group, and he is Co-director of the Chair in dairy biosecurity. He is passionate about epidemiology of infectious diseases of dairy cattle, about usage of antimicrobial in production animals and antimicrobial resistance. He also has a strong expertise in diagnostic strategies, control of infectious diseases, and development of data visualization tools for monitoring and benchmarking health issues. He has been involved in the training of many graduate students (most survived). Above all, he is passionate about learning and teaching.
 
 
