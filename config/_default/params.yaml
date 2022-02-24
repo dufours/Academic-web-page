@@ -73,6 +73,7 @@ show_related:
   book: true
   page: false
   post: true
+  courses: true
   project: true
   publication: true
   event: true

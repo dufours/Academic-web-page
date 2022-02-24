@@ -7,10 +7,10 @@ widget: featured
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 60
 
-title: Featured Publications
-subtitle: ""
+title: Featured Articles
+subtitle: "For a full list of publications, check [Google Scholar](https://scholar.google.com/citations?user=ieHG-7IAAAAJ&hl=en)"
 
 content:
   # Page type to display. E.g. post, talk, publication...
