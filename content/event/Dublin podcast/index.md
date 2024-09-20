@@ -9,6 +9,8 @@ event: CAHSS Podcast Series - Animal Health Insights
 featured: true
 image:
    focal_point: Right
+   caption: Photo by <a href="https://unsplash.com/@sadmax?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Amber Kipp</a> on <a href="https://unsplash.com/s/photos/cow?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 
 summary: Sharing information about *Salmonella Dublin*, an emerging pathogen of cattle, is essential to improve health, manage disease and minimize losses. This epidemiologist of infectious diseases of dairy cattle discusses some innovative ways to share Salmonella Dublin risk and prevalence information with producers and veterinarians.
 

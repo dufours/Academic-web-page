@@ -1,8 +1,8 @@
 ---
+title: "Courses"
 header:
-  caption: ""
-  image: ""
-title: Courses
+  caption: ''
+  image: ''
 type: page
 view: 2
 ---

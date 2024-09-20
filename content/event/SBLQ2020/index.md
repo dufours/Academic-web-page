@@ -10,6 +10,8 @@ event_url: https://www.craaq.qc.ca/Evenements-du-CRAAQ/symposium-sur-les-bovins-
 featured: true
 image:
    focal_point: Right
+   caption: Photo by <a href="https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Markus Spiske</a> on <a href="https://unsplash.com/s/photos/cow-toy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 
 summary: Les impacts de la litière de fumier recyclé sur la santé des vaches.
 

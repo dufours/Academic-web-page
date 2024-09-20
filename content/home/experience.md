@@ -22,12 +22,12 @@ experience:
   date_end: '2007-08-01'
 - title: Clinical teacher
   company: Ambulatory clinic, Université de Montréal
-  location: St-Hyacinthe, Canada
+  location: Quebec, Canada
   date_start: '2003-08-01'
   date_end: '2005-07-31'
 - title: Dairy practitioner
   company: Clinique vétérinaire St-Alexis
-  location: St-Alexis-de-Montcalm, Canada
+  location: Quebec, Canada
   date_start: '1998-06-01'
   date_end: '2003-07-31'
 design:

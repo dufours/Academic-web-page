@@ -2,6 +2,6 @@
 header:
   caption: ""
   image: ""
-title: Recorded Talks
+title: Outreach activities
 view: 2
 ---

@@ -20,7 +20,7 @@ feature:
   icon: r-project
   icon_pack: fab
   name: Statistics
-- description: 95% (I am getting there!)
+- description: 90% (I am getting there!)
   icon: chart-line
   icon_pack: fas
   name: Epidemiology

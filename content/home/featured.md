@@ -10,7 +10,7 @@ headless: true
 weight: 60
 
 title: Featured Articles
-subtitle: "For a full list of publications, check [Google Scholar](https://scholar.google.com/citations?user=ieHG-7IAAAAJ&hl=en)"
+subtitle: "For a full list of publications, check my [Google Scholar](https://scholar.google.com/citations?user=ieHG-7IAAAAJ&hl=en) profile"
 
 content:
   # Page type to display. E.g. post, talk, publication...
