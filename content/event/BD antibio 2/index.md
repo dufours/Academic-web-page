@@ -17,7 +17,7 @@ title: extrANTIBIOrdinary adventures - Second episode
 
 ---
 
-[**extrANTIBIOrdinary adventures / English**](TODO)  
+[**extrANTIBIOrdinary adventures / English**](https://www.oplait.org/bande-dessinee)  
   
-[**Les aventures extrANTIBIOrdinaires  / Français**](TODO)
+[**Les aventures extrANTIBIOrdinaires  / Français**](https://www.oplait.org/bande-dessinee)
 
